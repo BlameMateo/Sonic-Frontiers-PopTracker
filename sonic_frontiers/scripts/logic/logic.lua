@@ -1,0 +1,22 @@
+-- put logic functions here using the Lua API: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#lua-interface
+-- don't be afraid to use custom logic functions. it will make many things a lot easier to maintain, for example by adding logging.
+-- to see how this function gets called, check: locations/locations.json
+-- example:
+
+function has(item, amount)
+    local count = Tracker:ProviderCountForCode(item)
+    if not amount then
+        return count > 0
+    else
+        amount = tonumber(amount)
+        return count >= amount
+    end
+end
+
+function hasnot(item)
+	local count2 = Tracker:ProviderCountForCode(item)
+    if count2 > 0 then
+		return false
+	else return true
+	end
+end

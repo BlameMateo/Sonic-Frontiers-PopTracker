@@ -1,0 +1,132 @@
+{
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Skills",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "skills"
+              }
+            },
+            {
+              "type": "group",
+              "header": "All Areas",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "all"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Kronos",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "kronos"
+              }
+            },
+            /*{
+              "type": "group",
+              "header": "Ares",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "ares"
+              }
+            },*/
+            /*{
+              "type": "group",
+              "header": "Chaos",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "chaos"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Ouranos",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "ouranos"
+              }
+            }*/
+          ]
+        },
+        //////////////////////////////////     Maps     //////////////////////////////////////////////////
+        {
+          "type": "dock",
+          "content": [
+            {
+              "type": "tabbed",
+              "dock": "top",
+              "tabs": [
+                {
+                  "title": "Kronos",
+                  "content": {
+                    "type": "array",
+                    "content": [
+                      {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "style": "wrap",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "kronos"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  //////////////////////////////////     Options Thing       /////////////////////////////////////////
+  "settings_popup": {
+    "type": "tabbed",
+    "background": "#000000",
+    "margin": "6, 6",
+    "orientation": "horizontal",
+    "h_alignment": "left",
+    "content": [
+      {
+        "type": "group",
+        "header": "Settings",
+        "dock": "bottom",
+        "background": "#000000",
+        "content": {
+          "type": "layout",
+          "key": "settings"
+        }
+      }
+    ]
+  }
+}

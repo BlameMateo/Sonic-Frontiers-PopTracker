@@ -1,0 +1,271 @@
+[
+  // SETTINGS
+  {
+    "name": "Koco Sanity",
+    "type": "toggle",
+    "codes": "koco_sanity",
+    "img": ""
+  },
+  {
+    "name": "Challenge Kocos",
+    "type": "toggle",
+    "codes": "challenge_kocos",
+    "img": ""
+  },
+  {
+    "name": "Purple Coin Sanity",
+    "type": "toggle",
+    "codes": "purple_coin_sanity",
+    "img": ""
+  },
+  {
+    "name": "Memory Token Sanity",
+    "type": "toggle",
+    "codes": "memory_token_sanity",
+    "img": ""
+  },
+  {
+    "name": "Music Notes",
+    "type": "toggle",
+    "codes": "music_notes",
+    "img": ""
+  },
+
+  // SKILLS
+
+  {
+    "name": "Phantom Rush",
+    "type": "toggle",
+    "codes": "phantom rush",
+    "img": "images/items/phantom_rush.png"
+  },
+  {
+    "name": "Air Trick",
+    "type": "toggle",
+    "codes": "air trick",
+    "img": "images/items/air_trick.png"
+  },
+  {
+    "name": "Stomp Attack",
+    "type": "toggle",
+    "codes": "stomp attack",
+    "img": "images/items/stomp_attack.png"
+  },
+  {
+    "name": "Quick Cyloop",
+    "type": "toggle",
+    "codes": "quick cyloop",
+    "img": "images/items/quick_cyloop.png"
+  },
+  {
+    "name": "Spin Dash",
+    "type": "toggle",
+    "codes": "spin dash",
+    "img": "images/items/spin_dash.png"
+  },
+  {
+    "name": "Sonic Boom",
+    "type": "toggle",
+    "codes": "sonic boom",
+    "img": "images/items/sonic_boom.png"
+  },
+  {
+    "name": "Parry",
+    "type": "toggle",
+    "codes": "parry",
+    "img": "images/items/parry.png"
+  },
+  {
+    "name": "Homing Shot",
+    "type": "toggle",
+    "codes": "homing shot",
+    "img": "images/items/homing_shot.png"
+  },
+  {
+    "name": "Spin Slash",
+    "type": "toggle",
+    "codes": "spin slash",
+    "img": "images/items/spin_slash.png"
+  },
+  {
+    "name": "Recovery Smash",
+    "type": "toggle",
+    "codes": "recovery smash",
+    "img": "images/items/recovery_smash.png"
+  },
+  {
+    "name": "Cyclone Kick",
+    "type": "toggle",
+    "codes": "cyclone kick",
+    "img": "images/items/cyclone_kick.png"
+  },
+  {
+    "name": "Cross Slash",
+    "type": "toggle",
+    "codes": "cross slash",
+    "img": "images/items/cross_slash.png"
+  },
+  {
+    "name": "Grand Slam",
+    "type": "toggle",
+    "codes": "grand slam",
+    "img": "images/items/grand_slam.png"
+  },
+  {
+    "name": "Red Power Seeds",
+    "type": "consumable",
+    "codes": "red power seed",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/red_seed.png"
+  },
+  {
+    "name": "Blue Power Seeds",
+    "type": "consumable",
+    "codes": "blue power seed",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/blue_seed.png"
+  },
+  {
+    "name": "Chaos Emeralds",
+    "type": "consumable",
+    "codes": "chaos emerald",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/chaos_emerald_purple.png"
+  },
+  {
+    "name": "Kronos Gears",
+    "type": "consumable",
+    "codes": "kronos portal gear",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/kronos_gear.png"
+  },
+  /*{
+    "name": "Kronos Memory Tokens",
+    "type": "consumable",
+    "codes": "kronos memory token",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": true,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/kronos_memory_token.png"
+  },*/
+  {
+    "name": "Kronos Vault Keys",
+    "type": "consumable",
+    "codes": "kronos vault key",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/key.png"
+  },
+  {
+    "name": "Kronos Memory Tokens",
+    "type": "consumable",
+    "codes": "kronos memory treasure",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "increment": 8,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/kronos_memory_token.png"
+  },
+  {
+    "name": "Mission 1-2",
+    "type": "toggle",
+    "codes": "1-2 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 1-3",
+    "type": "toggle",
+    "codes": "1-3 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 1-4",
+    "type": "toggle",
+    "codes": "1-4 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 1-5",
+    "type": "toggle",
+    "codes": "1-5 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 1-6",
+    "type": "toggle",
+    "codes": "1-6 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 1-7",
+    "type": "toggle",
+    "codes": "1-7 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Tab Switcher",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "codes": "tab_switch",
+        "inherit_codes": false,
+        "img": "images/items/tab_switch_on.png"
+      },
+      {
+        "codes": "tab_switch_off",
+        "inherit_codes": false,
+        "img": "images/items/tab_switch_off.png"
+      }
+    ]
+  },
+  {
+    "name": "Room Switcher",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "codes": "room_switch",
+        "inherit_codes": false,
+        "img": "images/items/room_switch_on.png"
+      },
+      {
+        "codes": "room_switch_off",
+        "inherit_codes": false,
+        "img": "images/items/room_switch_off.png"
+      }
+    ]
+  }
+]

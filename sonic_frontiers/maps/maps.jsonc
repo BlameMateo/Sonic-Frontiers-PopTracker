@@ -1,0 +1,9 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "kronos",
+    "location_size": 7,
+    "location_border_thickness": 1,
+    "img": "images/maps/kronos.png"
+  }
+]

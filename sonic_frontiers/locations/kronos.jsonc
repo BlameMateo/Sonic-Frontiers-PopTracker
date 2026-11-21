@@ -1,0 +1,3976 @@
+[
+  {
+    "name": "Kronos",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Chaos Emeralds",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Blue Chaos Emerald",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_blue.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 518,
+                "y": 705
+              }
+            ]
+          },
+          {
+            "name": "Red Chaos Emerald",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_red.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 402,
+                "y": 582
+              }
+            ]
+          },
+          {
+            "name": "Green Chaos Emerald",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_green.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 472,
+                "y": 478
+              }
+            ]
+          },
+          {
+            "name": "Yellow Chaos Emerald",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_yellow.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 297,
+                "y": 489
+              }
+            ]
+          },
+          {
+            "name": "Cyan Chaos Emerald",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_cyan.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 220,
+                "y": 505
+              }
+            ]
+          },
+
+          // White Chaos Emerald, Gears 4, 14
+
+          {
+            "name": "Floating Structure",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "White Chaos Emerald",
+                "chest_unopened_img": "images/items/chaos_emerald_white.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              },
+              {
+                "name": "Kronos Gear 4",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              },
+              {
+                "name": "Kronos Gear 14",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 123,
+                "y": 493
+              }
+            ]
+          }
+        ]
+      },
+
+      //////////////
+      //////////////
+      // MISSIONS //
+      //////////////
+      //////////////
+
+      {
+        "name": "Missions",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "1-1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 824,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "1-2",
+            "access_rules": "1-2 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 634,
+                "y": 726
+              }
+            ]
+          },
+          {
+            "name": "1-3",
+            "access_rules": "1-3 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 495,
+                "y": 660
+              }
+            ]
+          },
+          {
+            "name": "1-4",
+            "access_rules": "1-4 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 470,
+                "y": 525
+              }
+            ]
+          },
+          {
+            "name": "1-5",
+            "access_rules": "1-5 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 488,
+                "y": 415
+              }
+            ]
+          },
+          {
+            "name": "1-6",
+            "access_rules": "1-6 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 213,
+                "y": 388
+              }
+            ]
+          },
+          {
+            "name": "1-7",
+            "access_rules": "1-7 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 205,
+                "y": 552
+              }
+            ]
+          }
+        ]
+      },
+
+      /////////////////////
+      /////////////////////
+      // CHALLENGE KOCOS //
+      /////////////////////
+      /////////////////////
+
+      {
+        "name": "Challenge Kocos",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "challenge_kocos"
+        ],
+        "children": [
+          {
+            "name": "Challenge Koco 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 327,
+                "y": 430
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 120,
+                "y": 575
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 537,
+                "y": 605
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 185,
+                "y": 560
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 478,
+                "y": 406
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 235,
+                "y": 410
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 7",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 70,
+                "y": 485
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 8",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 405,
+                "y": 564
+              }
+            ]
+          }
+        ]
+      },
+
+      //////////
+      //////////
+      // KEYS //
+      //////////
+      //////////
+
+      {
+        "name": "Keys",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Key 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 256,
+                "y": 485
+              }
+            ]
+          },
+          {
+            "name": "Key 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 267,
+                "y": 552
+              }
+            ]
+          },
+          {
+            "name": "Key 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 451,
+                "y": 540
+              }
+            ]
+          },
+          {
+            "name": "Key 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 148,
+                "y": 402
+              }
+            ]
+          },
+          {
+            "name": "Key 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 397,
+                "y": 599
+              }
+            ]
+          }
+        ]
+      },
+
+      //////////////////////
+      //////////////////////
+      // MEMORY TREASURES //
+      //////////////////////
+      //////////////////////
+
+      {
+        "name": "Memory Treasures",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Memory Treasure 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 633,
+                "y": 704
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 406,
+                "y": 555
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 374,
+                "y": 474
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 332,
+                "y": 405
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 491,
+                "y": 461
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 268,
+                "y": 502
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 7",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 147,
+                "y": 466
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 8",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 219,
+                "y": 468
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 9",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 397,
+                "y": 385
+              }
+            ]
+          }
+        ]
+      },
+
+      ////////////////////
+      ////////////////////
+      // MAP CHALLENGES //
+      ////////////////////
+      ////////////////////
+
+      {
+        "name": "Map Challenges",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Map Challenge 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 825,
+                "y": 642
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 662,
+                "y": 788
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 494,
+                "y": 695
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 500,
+                "y": 635
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 425,
+                "y": 633
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 475,
+                "y": 574
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 7",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 424,
+                "y": 498
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 8",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 368,
+                "y": 590
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 9",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 485,
+                "y": 508
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 10",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 320,
+                "y": 545
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 11",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 533,
+                "y": 432
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 12",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 460,
+                "y": 410
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 13",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 385,
+                "y": 465
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 14",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 287,
+                "y": 560
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 15",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 384,
+                "y": 366
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 16",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 365,
+                "y": 402
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 17",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 320,
+                "y": 465
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 18",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 245,
+                "y": 525
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 19",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 264,
+                "y": 397
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 20",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 240,
+                "y": 485
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 21",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 168,
+                "y": 478
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 22",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 255,
+                "y": 355
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 23",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 170,
+                "y": 425
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 24",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 80,
+                "y": 420
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 25",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 58,
+                "y": 494
+              }
+            ]
+          }
+        ]
+      },
+
+      ///////////
+      ///////////
+      // GEARS //
+      ///////////
+      ///////////
+
+      {
+        "name": "Gears",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Kronos Gear 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 573,
+                "y": 415
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 248,
+                "y": 417
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 273,
+                "y": 353
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 314,
+                "y": 497
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 343,
+                "y": 495
+              }
+            ]
+          },
+          {
+            "name": "Asura 1 Gears",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Kronos Gear 7",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              },
+              {
+                "name": "Kronos Gear 8",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              },
+              {
+                "name": "Kronos Gear 9",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 467,
+                "y": 640
+              }
+            ]
+          },
+          {
+            "name": "Asura 2 Gears",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Kronos Gear 10",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              },
+              {
+                "name": "Kronos Gear 11",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              },
+              {
+                "name": "Kronos Gear 12",
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 428,
+                "y": 420
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 13",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 155,
+                "y": 410
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 15",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 415,
+                "y": 473
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 16",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 775,
+                "y": 725
+              }
+            ]
+          },
+          {
+            "name": "Kronos Gear 17",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_gear.png",
+                "chest_opened_img": "images/items/kronos_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 610,
+                "y": 715
+              }
+            ]
+          }
+        ]
+      },
+
+      ///////////
+      ///////////
+      // MUSIC //
+      ///////////
+      ///////////
+
+      {
+        "name": "Music",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "music_notes"
+        ],
+        "children": [
+          {
+            "name": "Music Note 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 129,
+                "y": 405
+              }
+            ]
+          },
+          {
+            "name": "Music Note 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 427,
+                "y": 555
+              }
+            ]
+          },
+          {
+            "name": "Music Note 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 357,
+                "y": 390
+              }
+            ]
+          },
+          {
+            "name": "Music Note 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 202,
+                "y": 448
+              }
+            ]
+          },
+          {
+            "name": "Music Note 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 303,
+                "y": 546
+              }
+            ]
+          },
+          {
+            "name": "Music Note 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 218,
+                "y": 576
+              }
+            ]
+          },
+          {
+            "name": "Music Note 7",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 199,
+                "y": 363
+              }
+            ]
+          },
+          {
+            "name": "Music Note 8",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 48,
+                "y": 483
+              }
+            ]
+          },
+          {
+            "name": "Music Note 9",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 489,
+                "y": 450
+              }
+            ]
+          },
+          {
+            "name": "Music Note 10",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 546,
+                "y": 718
+              }
+            ]
+          },
+          {
+            "name": "Music Note 11",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 350,
+                "y": 515
+              }
+            ]
+          },
+          {
+            "name": "Music Note 12",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 672,
+                "y": 740
+              }
+            ]
+          },
+          {
+            "name": "Music Note 13",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 374,
+                "y": 448
+              }
+            ]
+          }
+        ]
+      },
+
+      ///////////////////
+      ///////////////////
+      // MEMORY TOKENS //
+      ///////////////////
+      ///////////////////
+
+      {
+        "name": "Memory Tokens",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "memory_token_sanity"
+        ],
+        "children": [
+          {
+            "name": "Memory Token 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 837,
+                "y": 645,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 2",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 837,
+                "y": 630,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 3",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 790,
+                "y": 673,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 787,
+                "y": 690,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 5",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 700,
+                "y": 785,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 6",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 735,
+                "y": 765,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 7",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 630,
+                "y": 712,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 8",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 380,
+                "y": 525,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 9",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 494,
+                "y": 435,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 10",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 375,
+                "y": 386,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 11",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 164,
+                "y": 408,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 12",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 481,
+                "y": 481,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 13",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 462,
+                "y": 420,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 14",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 337,
+                "y": 463,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 15",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 380,
+                "y": 452,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 16",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 200,
+                "y": 462,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 17",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 55,
+                "y": 460,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 18",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 133,
+                "y": 434,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 19",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 164,
+                "y": 394,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 20",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 121,
+                "y": 457,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 21",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 118,
+                "y": 396,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 22",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 87,
+                "y": 413,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 23",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 69,
+                "y": 465,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 24",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 85,
+                "y": 518,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 25",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 92,
+                "y": 467,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 26",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 97,
+                "y": 532,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 27",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 790,
+                "y": 668,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 28",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 745,
+                "y": 697,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 29",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 760,
+                "y": 697,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 30",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 750,
+                "y": 710,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 31",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 718,
+                "y": 753,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 32",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 657,
+                "y": 800,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 33",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 670,
+                "y": 730,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 34",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 650,
+                "y": 743,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 35",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 585,
+                "y": 705,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 36",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 530,
+                "y": 715,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 37",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 517,
+                "y": 713,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 38",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 478,
+                "y": 684,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 39",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 480,
+                "y": 525,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 40",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 392,
+                "y": 592,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 41",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 433,
+                "y": 585,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 42",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 417,
+                "y": 565,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 43",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 409,
+                "y": 536,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 44",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 425,
+                "y": 492,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 45",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 411,
+                "y": 508,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 46",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 507,
+                "y": 475,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 47",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 438,
+                "y": 385,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 48",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 393,
+                "y": 375,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 49",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 371,
+                "y": 405,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 50",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 282,
+                "y": 363,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 51",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 315,
+                "y": 450,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 52",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 205,
+                "y": 370,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 53",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 380,
+                "y": 471,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 54",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 266,
+                "y": 427,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 55",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 320,
+                "y": 590,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 56",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 283,
+                "y": 555,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 57",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 250,
+                "y": 485,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 58",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 242,
+                "y": 472,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 59",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 249,
+                "y": 514,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Tokens",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Memory Token 60",
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              },
+              {
+                "name": "Memory Token 74",
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 289,
+                "y": 513,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 61",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 315,
+                "y": 445,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 62",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 703,
+                "y": 777,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 63",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 745,
+                "y": 765,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 64",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 400,
+                "y": 383,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 65",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 215,
+                "y": 378,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 66",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 555,
+                "y": 427,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 67",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 497,
+                "y": 525,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 68",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 377,
+                "y": 587,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 69",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 525,
+                "y": 623,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 70",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 500,
+                "y": 570,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 71",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 330,
+                "y": 517,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 72",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 390,
+                "y": 510,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 73",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 283,
+                "y": 413,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 75",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 335,
+                "y": 555,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 76",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 497,
+                "y": 615,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 77",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 323,
+                "y": 398,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 78",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 537,
+                "y": 655,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 79",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 460,
+                "y": 590,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 80",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 494,
+                "y": 455,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 81",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 411,
+                "y": 450,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 82",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 84,
+                "y": 480,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 83",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 63,
+                "y": 512,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 84",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 166,
+                "y": 483,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 85",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 495,
+                "y": 631,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 86",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 658,
+                "y": 740,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 87",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 488,
+                "y": 555,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 88",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 500,
+                "y": 450,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 89",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 335,
+                "y": 417,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 90",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 213,
+                "y": 535,
+                "shape": "diamond"
+              }
+            ]
+          },
+          {
+            "name": "Memory Token 91",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/kronos_memory_token.png",
+                "chest_opened_img": "images/items/kronos_memory_token_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos",
+                "x": 381,
+                "y": 417,
+                "shape": "diamond"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

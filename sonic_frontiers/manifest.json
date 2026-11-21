@@ -1,0 +1,20 @@
+{
+  // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
+  "name": "Sonic Frontiers",
+  "game_name": "Sonic Frontiers",
+  "package_version": "0.1.0",
+  "package_uid": "sonic_frontiers",
+  "versions_url": "https://raw.githubusercontent.com/BlameMateo/Sonic-Frontiers-PopTracker/refs/heads/main/versions.json",
+  "platform": "GBA",
+  "author": "BlameMateo",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.36.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

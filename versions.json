@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "package_version": "0.1.0",
+      "download_url": "https://github.com/BlameMateo/Sonic-Frontiers-Poptracker/releases/download/v0.1.0/sonic_frontiers.zip",
+      "sha256": "05e16f6a483f7705bbe9b41cd5de75d4a02ec81c5dd7d3af7b9e6de356da3b8a",
+      "changelog": [
+        "V0.1.0 See Github for release notes."
+      ]
+    }
+  ]
+}

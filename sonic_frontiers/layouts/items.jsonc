@@ -1,0 +1,295 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "skills": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "phantom rush",
+                "air trick",
+                "stomp attack",
+                "quick cyloop",
+                "spin dash",
+                "sonic boom",
+                "parry"
+              ],
+              [
+                "homing shot",
+                "spin slash",
+                "recovery smash",
+                "cyclone kick",
+                "cross slash",
+                "grand slam"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "all": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "chaos emerald",
+                "red power seed",
+                "blue power seed"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "kronos": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "kronos memory treasure",
+                "kronos portal gear",
+                "kronos vault key"
+              ],
+              [
+                "1-2 unlock",
+                "1-3 unlock",
+                "1-4 unlock",
+                "1-5 unlock",
+                "1-6 unlock",
+                "1-7 unlock"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "ares": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "ares memory token",
+                "ares portal gear",
+                "ares vault key",
+                "ares memory treasure"
+              ],
+              [
+                "2-1 unlock",
+                "2-2 unlock",
+                "2-3 unlock",
+                "2-4 unlock",
+                "2-5 unlock",
+                "2-6 unlock",
+                "2-7 unlock"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "chaos": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "chaos memory token",
+                "chaos portal gear",
+                "chaos vault key",
+                "chaos memory treasure"
+              ],
+              [
+                "3-1 unlock",
+                "3-2 unlock",
+                "3-3 unlock",
+                "3-4 unlock",
+                "3-5 unlock",
+                "3-6 unlock",
+                "3-7 unlock"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+  "ouranos": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "orientation": "center",
+        "type": "array",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, -1", 
+            "item_size": 25,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "ouranos memory token",
+                "ouranos portal gear",
+                "ouranos vault key",
+                "ouranos memory treasure"
+              ],
+              [
+                "4-1 unlock",
+                "4-2 unlock",
+                "4-3 unlock",
+                "4-4 unlock",
+                "4-5 unlock"
+              ],
+              [
+                "4-6 unlock",
+                "4-7 unlock",
+                "4-8 unlock",
+                "4-9 unlock"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+  "settings": {
+    "type": "array",
+    "orientation": "center",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "10,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "item_size": 65,   
+            "h_alignment": "center",
+            "rows": [
+              [
+
+              ],
+              [
+                "tab_switch",
+                "room_switch",
+                "current_location"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+  "key": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2,2",     
+            "item_size": 60,   
+            "h_alignment": "center",
+            "rows": [
+              [
+
+              ],
+              [
+
+              ],
+              [
+
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
