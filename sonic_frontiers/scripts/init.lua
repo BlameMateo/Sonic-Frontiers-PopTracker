@@ -47,3 +47,120 @@ Tracker:AddLayouts("layouts/broadcast.jsonc")
 if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")
 end
+
+local key = Tracker:FindObjectForCode("1-2 unlock")
+if key then
+    key:SetOverlay("1-2")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("1-3 unlock")
+if key then
+    key:SetOverlay("1-3")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("1-4 unlock")
+if key then
+    key:SetOverlay("1-4")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("1-5 unlock")
+if key then
+    key:SetOverlay("1-5")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("1-6 unlock")
+if key then
+    key:SetOverlay("1-6")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("1-7 unlock")
+if key then
+    key:SetOverlay("1-7")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-1 unlock")
+if key then
+    key:SetOverlay("2-1")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-2 unlock")
+if key then
+    key:SetOverlay("2-2")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-3 unlock")
+if key then
+    key:SetOverlay("2-3")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-4 unlock")
+if key then
+    key:SetOverlay("2-4")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-5 unlock")
+if key then
+    key:SetOverlay("2-5")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-6 unlock")
+if key then
+    key:SetOverlay("2-6")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end
+
+local key = Tracker:FindObjectForCode("2-7 unlock")
+if key then
+    key:SetOverlay("2-7")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("left")
+end

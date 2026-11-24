@@ -5,5 +5,23 @@
     "location_size": 7,
     "location_border_thickness": 1,
     "img": "images/maps/kronos.png"
+  },
+  {
+    "name": "kronos_hq",
+    "location_size": 32,
+    "location_border_thickness": 1,
+    "img": "images/maps/kronos_hq.png"
+  },
+  {
+    "name": "kronos_coins",
+    "location_size": 32,
+    "location_border_thickness": 1,
+    "img": "images/maps/kronos_hq.png"
+  },
+  {
+    "name": "ares",
+    "location_size": 32,
+    "location_border_thickness": 1,
+    "img": "images/maps/ares.png"
   }
 ]

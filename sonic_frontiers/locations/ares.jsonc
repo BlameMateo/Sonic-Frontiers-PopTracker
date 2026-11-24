@@ -1,0 +1,2643 @@
+[
+  {
+    "name": "Ares",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Chaos Emeralds",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Blue Chaos Emerald",
+            "access_rules": [
+              "ares vault key:7"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_blue.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2645,
+                "y": 2220
+              }
+            ]
+          },
+          {
+            "name": "Red Chaos Emerald",
+            "access_rules": [
+              "ares vault key:14"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_red.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2605,
+                "y": 1430
+              }
+            ]
+          },
+          {
+            "name": "Green Chaos Emerald",
+            "access_rules": [
+              "ares memory token:124, chaos emerald:8"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_green.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1870,
+                "y": 1615
+              }
+            ]
+          },
+          {
+            "name": "Yellow Chaos Emerald",
+            "access_rules": [
+              "ares vault key:17"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_yellow.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1060,
+                "y": 218
+              }
+            ]
+          },
+          {
+            "name": "Cyan Chaos Emerald",
+            "access_rules": [
+              "ares memory token:184, chaos emerald:10"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_cyan.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1765,
+                "y": 945
+              }
+            ]
+          },
+          {
+            "name": "White Chaos Emerald",
+            "access_rules": [
+              "ares vault key:24"
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chaos_emerald_white.png",
+                "chest_opened_img": "images/items/chaos_emerald_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2380,
+                "y": 660
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Missions",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "2-1",
+            "access_rules": "2-1 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2160,
+                "y": 2515
+              }
+            ]
+          },
+          {
+            "name": "2-2",
+            "access_rules": "2-2 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2535,
+                "y": 3870
+              }
+            ]
+          },
+          {
+            "name": "2-3",
+            "access_rules": "2-3 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1560,
+                "y": 1390
+              }
+            ]
+          },
+          {
+            "name": "2-4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "access_rules": [
+                  "2-4 unlock"
+                ],
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "Memory Treasure 14",
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1810,
+                "y": 1730
+              }
+            ]
+          },
+          {
+            "name": "2-5",
+            "access_rules": "2-5 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 345,
+                "y": 2065
+              }
+            ]
+          },
+          {
+            "name": "2-6",
+            "access_rules": "2-6 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2305,
+                "y": 950
+              }
+            ]
+          },
+          {
+            "name": "2-7",
+            "access_rules": "2-7 unlock",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "All Missions (1)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (2)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (3)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (4)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (5)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (6)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              },
+              {
+                "name": "All Missions (7)",
+                "chest_unopened_img": "images/items/mission.png",
+                "chest_opened_img": "images/items/mission_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1315,
+                "y": 636
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Challenge Kocos",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "challenge_kocos"
+        ],
+        "children": [
+          {
+            "name": "Challenge Koco 1",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2630,
+                "y": 1683
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 2",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2855,
+                "y": 3120
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 3",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2760,
+                "y": 1120
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3630,
+                "y": 1980
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 5",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1765,
+                "y": 578
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 6",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 460,
+                "y": 2030
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 7",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3405,
+                "y": 2590
+              }
+            ]
+          },
+          {
+            "name": "Challenge Koco 8",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/challenge_koco.png",
+                "chest_opened_img": "images/items/challenge_koco_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1520,
+                "y": 2210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Music Notes",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "music_notes"
+        ],
+        "children": [
+          {
+            "name": "Music Note 1",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2505,
+                "y": 2940
+              }
+            ]
+          },
+          {
+            "name": "Music Note 2",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2861,
+                "y": 782
+              }
+            ]
+          },
+          {
+            "name": "Music Note 3",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1220,
+                "y": 1703
+              }
+            ]
+          },
+          {
+            "name": "Music Note 4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1765,
+                "y": 1565
+              }
+            ]
+          },
+          {
+            "name": "Music Note 5",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 620,
+                "y": 645
+              }
+            ]
+          },
+          {
+            "name": "Music Note 6",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1895,
+                "y": 2605
+              }
+            ]
+          },
+          {
+            "name": "Music Note 7",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2765,
+                "y": 3345
+              }
+            ]
+          },
+          {
+            "name": "Music Note 8",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3390,
+                "y": 2640
+              }
+            ]
+          },
+          {
+            "name": "Music Note 9",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3695,
+                "y": 1905
+              }
+            ]
+          },
+          {
+            "name": "Music Note 10",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2212,
+                "y": 1710
+              }
+            ]
+          },
+          {
+            "name": "Music Note 11",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 625,
+                "y": 1145
+              }
+            ]
+          },
+          {
+            "name": "Music Note 12",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1800,
+                "y": 1225
+              }
+            ]
+          },
+          {
+            "name": "Music Note 13",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/music_note.png",
+                "chest_opened_img": "images/items/music_note_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1550,
+                "y": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Keys",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Key 1",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1260,
+                "y": 1520
+              }
+            ]
+          },
+          {
+            "name": "Key 2",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1835,
+                "y": 1090
+              }
+            ]
+          },
+          {
+            "name": "Key 3",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1580,
+                "y": 2925
+              }
+            ]
+          },
+          {
+            "name": "Key 4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2560,
+                "y": 2385
+              }
+            ]
+          },
+          {
+            "name": "Key 5",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1600,
+                "y": 1220
+              }
+            ]
+          },
+          {
+            "name": "Key 6",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2480,
+                "y": 770
+              }
+            ]
+          },
+          {
+            "name": "Key 7",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_key.png",
+                "chest_opened_img": "images/items/key_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2657,
+                "y": 3300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gears",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Gear 1",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2560,
+                "y": 3680
+              }
+            ]
+          },
+          {
+            "name": "Gear 2",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 770,
+                "y": 1450
+              }
+            ]
+          },
+          {
+            "name": "Gear 3",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1080,
+                "y": 1240
+              }
+            ]
+          },
+          {
+            "name": "Gear 4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1210,
+                "y": 1740
+              }
+            ]
+          },
+          {
+            "name": "Gear 5",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2190,
+                "y": 650
+              }
+            ]
+          },
+          {
+            "name": "Gear 6",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1480,
+                "y": 1585
+              }
+            ]
+          },
+          {
+            "name": "Gear 7",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2440,
+                "y": 2690
+              }
+            ]
+          },
+          {
+            "name": "Gear 8",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 600,
+                "y": 1905
+              }
+            ]
+          },
+          {
+            "name": "Gear 9",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1680,
+                "y": 350
+              }
+            ]
+          },
+          {
+            "name": "Gear 10",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1440,
+                "y": 1930
+              }
+            ]
+          },
+          {
+            "name": "Gear 11",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/ares_gear.png",
+                "chest_opened_img": "images/items/ares_gear_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2100,
+                "y": 1630
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Memory Treasures",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Memory Treasure 1",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2293,
+                "y": 2730
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 2",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1395,
+                "y": 1825
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 3",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1920,
+                "y": 470
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 4",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1520,
+                "y": 2995
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 5",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1525,
+                "y": 2045
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 6",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1905,
+                "y": 1905
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 7",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2285,
+                "y": 1645
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 8",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2555,
+                "y": 1130
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 9",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2600,
+                "y": 3870
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 10",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2155,
+                "y": 2463
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 11",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1560,
+                "y": 2210
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 12",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1545,
+                "y": 1360
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 13",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2360,
+                "y": 2930
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 15",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2200,
+                "y": 1805
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 16",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1360,
+                "y": 636
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 17",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1250,
+                "y": 1635
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 18",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2260,
+                "y": 935
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 19",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 383,
+                "y": 2075
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 20",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 665,
+                "y": 1105
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 21",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1460,
+                "y": 2420
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 22",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2380,
+                "y": 700
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 23",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1825,
+                "y": 2540
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 24",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2115,
+                "y": 1105
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 25",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1790,
+                "y": 945
+              }
+            ]
+          },
+          {
+            "name": "Memory Treasure 26",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/dig_treasure.png",
+                "chest_opened_img": "images/items/dig_treasure_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1870,
+                "y": 1105
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Map Challenges",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Map Challenge 26",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1570,
+                "y": 3070
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 27",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1860,
+                "y": 2950
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 28",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2630,
+                "y": 2765
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 29",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2420,
+                "y": 3610
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 30",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1410,
+                "y": 2405
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 31",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2260,
+                "y": 2145
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 32",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1340,
+                "y": 1670
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 33",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 765,
+                "y": 1957
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 34",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 560,
+                "y": 1430
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 35",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1930,
+                "y": 1385
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 36",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1395,
+                "y": 950
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 37",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1345,
+                "y": 255
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 38",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2050,
+                "y": 705
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 39",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2930,
+                "y": 1100
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 40",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3690,
+                "y": 1653
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 41",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3755,
+                "y": 2340
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 42",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2970,
+                "y": 2460
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 43",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2740,
+                "y": 1670
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 44",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2590,
+                "y": 2380
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 45",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1960,
+                "y": 2390
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 46",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2165,
+                "y": 1805
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 47",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2475,
+                "y": 1870
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 48",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1665,
+                "y": 1510
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 49",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1060,
+                "y": 1340
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 50",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1880,
+                "y": 1000
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 51",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2370,
+                "y": 1060
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 52",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 3055,
+                "y": 1325
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 53",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 1020,
+                "y": 1925
+              }
+            ]
+          },
+          {
+            "name": "Map Challenge 54",
+            "access_rules": [
+              ""
+            ],
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/map_challenge.png",
+                "chest_opened_img": "images/items/map_challenge_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ares",
+                "x": 2710,
+                "y": 3380
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

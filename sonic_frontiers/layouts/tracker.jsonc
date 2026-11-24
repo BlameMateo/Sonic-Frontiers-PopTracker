@@ -41,7 +41,7 @@
                 "key": "kronos"
               }
             },
-            /*{
+            {
               "type": "group",
               "header": "Ares",
               "dock": "top",
@@ -50,7 +50,7 @@
                 "v_alignment": "stretch",
                 "key": "ares"
               }
-            },*/
+            }
             /*{
               "type": "group",
               "header": "Chaos",
@@ -84,6 +84,80 @@
                 {
                   "title": "Kronos",
                   "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "General",
+                        "icon": "",
+                        "content": {
+                          "type": "array",
+                          "content": [
+                            {
+                              "type": "array",
+                              "orientation": "horizontal",
+                              "style": "wrap",
+                              "content": [
+                                {
+                                  "type": "map",
+                                  "maps": [
+                                    "kronos_hq"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Memory Tokens",
+                        "icon": "",
+                        "content": {
+                          "type": "array",
+                          "content": [
+                            {
+                              "type": "array",
+                              "orientation": "horizontal",
+                              "style": "wrap",
+                              "content": [
+                                {
+                                  "type": "map",
+                                  "maps": [
+                                    "kronos"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Purple Coins",
+                        "icon": "",
+                        "content": {
+                          "type": "array",
+                          "content": [
+                            {
+                              "type": "array",
+                              "orientation": "horizontal",
+                              "style": "wrap",
+                              "content": [
+                                {
+                                  "type": "map",
+                                  "maps": [
+                                    "kronos_coins"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Ares",
+                  "content": {
                     "type": "array",
                     "content": [
                       {
@@ -94,7 +168,7 @@
                           {
                             "type": "map",
                             "maps": [
-                              "kronos"
+                              "ares"
                             ]
                           }
                         ]

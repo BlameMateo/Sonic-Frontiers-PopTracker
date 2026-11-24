@@ -14,7 +14,7 @@
           {
             "type": "itemgrid",
             "item_margin": "0, 2", 
-            "item_size": 40,   
+            "item_size": 35,   
             "h_alignment": "center",
             "rows": [
               [
@@ -122,10 +122,9 @@
             "h_alignment": "center",
             "rows": [
               [
-                "ares memory token",
+                "ares memory treasure",
                 "ares portal gear",
-                "ares vault key",
-                "ares memory treasure"
+                "ares vault key"
               ],
               [
                 "2-1 unlock",

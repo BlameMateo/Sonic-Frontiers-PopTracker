@@ -13,7 +13,7 @@
         "children": [
           {
             "name": "Blue Chaos Emerald",
-            "access_rules": "",
+            "access_rules": ["kronos vault key:2"],
             "visibility_rules": [
               ""
             ],
@@ -25,15 +25,15 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 518,
-                "y": 705
+                "map": "kronos_hq",
+                "x": 2435,
+                "y": 3475
               }
             ]
           },
           {
             "name": "Red Chaos Emerald",
-            "access_rules": "",
+            "access_rules": ["kronos vault key:5"],
             "visibility_rules": [
               ""
             ],
@@ -45,15 +45,15 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 402,
-                "y": 582
+                "map": "kronos_hq",
+                "x": 1870,
+                "y": 2885
               }
             ]
           },
           {
             "name": "Green Chaos Emerald",
-            "access_rules": "",
+            "access_rules": ["kronos memory treasure:36, chaos emerald:2"],
             "visibility_rules": [
               ""
             ],
@@ -65,15 +65,15 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 472,
-                "y": 478
+                "map": "kronos_hq",
+                "x": 2200,
+                "y": 2400
               }
             ]
           },
           {
             "name": "Yellow Chaos Emerald",
-            "access_rules": "",
+            "access_rules": ["kronos vault key:12"],
             "visibility_rules": [
               ""
             ],
@@ -85,15 +85,15 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 297,
-                "y": 489
+                "map": "kronos_hq",
+                "x": 1360,
+                "y": 2455
               }
             ]
           },
           {
             "name": "Cyan Chaos Emerald",
-            "access_rules": "",
+            "access_rules": ["kronos memory treasure:54, chaos emerald:4"],
             "visibility_rules": [
               ""
             ],
@@ -105,9 +105,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 220,
-                "y": 505
+                "map": "kronos_hq",
+                "x": 1008,
+                "y": 2530
               }
             ]
           },
@@ -123,6 +123,7 @@
             "sections": [
               {
                 "name": "White Chaos Emerald",
+                "access_rules": ["kronos vault key:20"],
                 "chest_unopened_img": "images/items/chaos_emerald_white.png",
                 "chest_opened_img": "images/items/chaos_emerald_g.png"
               },
@@ -139,9 +140,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 123,
-                "y": 493
+                "map": "kronos_hq",
+                "x": 542,
+                "y": 2477
               }
             ]
           }
@@ -205,9 +206,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 824,
-                "y": 600
+                "map": "kronos_hq",
+                "x": 3875,
+                "y": 2985
               }
             ]
           },
@@ -256,9 +257,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 634,
-                "y": 726
+                "map": "kronos_hq",
+                "x": 2975,
+                "y": 3585
               }
             ]
           },
@@ -307,9 +308,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 495,
-                "y": 660
+                "map": "kronos_hq",
+                "x": 2330,
+                "y": 3300
               }
             ]
           },
@@ -358,9 +359,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 470,
-                "y": 525
+                "map": "kronos_hq",
+                "x": 2220,
+                "y": 2622
               }
             ]
           },
@@ -409,9 +410,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 488,
-                "y": 415
+                "map": "kronos_hq",
+                "x": 2287,
+                "y": 2120
               }
             ]
           },
@@ -460,9 +461,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 213,
-                "y": 388
+                "map": "kronos_hq",
+                "x": 965,
+                "y": 1975
               }
             ]
           },
@@ -511,9 +512,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 205,
-                "y": 552
+                "map": "kronos_hq",
+                "x": 930,
+                "y": 2762
               }
             ]
           }
@@ -549,9 +550,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 327,
-                "y": 430
+                "map": "kronos_hq",
+                "x": 1515,
+                "y": 2180
               }
             ]
           },
@@ -569,9 +570,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 120,
-                "y": 575
+                "map": "kronos_hq",
+                "x": 530,
+                "y": 2860
               }
             ]
           },
@@ -589,9 +590,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 537,
-                "y": 605
+                "map": "kronos_hq",
+                "x": 2510,
+                "y": 3010
               }
             ]
           },
@@ -609,9 +610,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 185,
-                "y": 560
+                "map": "kronos_hq",
+                "x": 850,
+                "y": 2800
               }
             ]
           },
@@ -629,9 +630,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 478,
-                "y": 406
+                "map": "kronos_hq",
+                "x": 2230,
+                "y": 2060
               }
             ]
           },
@@ -649,9 +650,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 235,
-                "y": 410
+                "map": "kronos_hq",
+                "x": 1065,
+                "y": 2070
               }
             ]
           },
@@ -669,9 +670,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 70,
-                "y": 485
+                "map": "kronos_hq",
+                "x": 288,
+                "y": 2445
               }
             ]
           },
@@ -689,9 +690,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 405,
-                "y": 564
+                "map": "kronos_hq",
+                "x": 1883,
+                "y": 2825
               }
             ]
           }
@@ -718,15 +719,15 @@
             ],
             "sections": [
               {
-                "chest_unopened_img": "images/items/key.png",
+                "chest_unopened_img": "images/items/kronos_key.png",
                 "chest_opened_img": "images/items/key_g.png"
               }
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 256,
-                "y": 485
+                "map": "kronos_hq",
+                "x": 1175,
+                "y": 2437
               }
             ]
           },
@@ -738,15 +739,15 @@
             ],
             "sections": [
               {
-                "chest_unopened_img": "images/items/key.png",
+                "chest_unopened_img": "images/items/kronos_key.png",
                 "chest_opened_img": "images/items/key_g.png"
               }
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 267,
-                "y": 552
+                "map": "kronos_hq",
+                "x": 1235,
+                "y": 2755
               }
             ]
           },
@@ -758,15 +759,15 @@
             ],
             "sections": [
               {
-                "chest_unopened_img": "images/items/key.png",
+                "chest_unopened_img": "images/items/kronos_key.png",
                 "chest_opened_img": "images/items/key_g.png"
               }
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 451,
-                "y": 540
+                "map": "kronos_hq",
+                "x": 2100,
+                "y": 2700
               }
             ]
           },
@@ -778,15 +779,15 @@
             ],
             "sections": [
               {
-                "chest_unopened_img": "images/items/key.png",
+                "chest_unopened_img": "images/items/kronos_key.png",
                 "chest_opened_img": "images/items/key_g.png"
               }
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 148,
-                "y": 402
+                "map": "kronos_hq",
+                "x": 660,
+                "y": 2043
               }
             ]
           },
@@ -798,15 +799,15 @@
             ],
             "sections": [
               {
-                "chest_unopened_img": "images/items/key.png",
+                "chest_unopened_img": "images/items/kronos_key.png",
                 "chest_opened_img": "images/items/key_g.png"
               }
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 397,
-                "y": 599
+                "map": "kronos_hq",
+                "x": 1850,
+                "y": 2979
               }
             ]
           }
@@ -839,9 +840,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 633,
-                "y": 704
+                "map": "kronos_hq",
+                "x": 2970,
+                "y": 3470
               }
             ]
           },
@@ -859,9 +860,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 406,
-                "y": 555
+                "map": "kronos_hq",
+                "x": 1890,
+                "y": 2765
               }
             ]
           },
@@ -879,9 +880,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 374,
-                "y": 474
+                "map": "kronos_hq",
+                "x": 1735,
+                "y": 2380
               }
             ]
           },
@@ -899,9 +900,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 332,
-                "y": 405
+                "map": "kronos_hq",
+                "x": 1533,
+                "y": 2057
               }
             ]
           },
@@ -919,9 +920,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 491,
-                "y": 461
+                "map": "kronos_hq",
+                "x": 2292,
+                "y": 2325
               }
             ]
           },
@@ -939,9 +940,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 268,
-                "y": 502
+                "map": "kronos_hq",
+                "x": 1235,
+                "y": 2517
               }
             ]
           },
@@ -959,9 +960,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 147,
-                "y": 466
+                "map": "kronos_hq",
+                "x": 658,
+                "y": 2345
               }
             ]
           },
@@ -979,9 +980,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 219,
-                "y": 468
+                "map": "kronos_hq",
+                "x": 1000,
+                "y": 2350
               }
             ]
           },
@@ -999,9 +1000,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 397,
-                "y": 385
+                "map": "kronos_hq",
+                "x": 1847,
+                "y": 1963
               }
             ]
           }
@@ -1034,9 +1035,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 825,
-                "y": 642
+                "map": "kronos_hq",
+                "x": 3880,
+                "y": 3185
               }
             ]
           },
@@ -1054,9 +1055,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 662,
-                "y": 788
+                "map": "kronos_hq",
+                "x": 3105,
+                "y": 3870
               }
             ]
           },
@@ -1074,9 +1075,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 494,
-                "y": 695
+                "map": "kronos_hq",
+                "x": 2310,
+                "y": 3433
               }
             ]
           },
@@ -1094,9 +1095,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 500,
-                "y": 635
+                "map": "kronos_hq",
+                "x": 2342,
+                "y": 3125
               }
             ]
           },
@@ -1114,9 +1115,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 425,
-                "y": 633
+                "map": "kronos_hq",
+                "x": 1975,
+                "y": 3140
               }
             ]
           },
@@ -1134,9 +1135,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 475,
-                "y": 574
+                "map": "kronos_hq",
+                "x": 2225,
+                "y": 2840
               }
             ]
           },
@@ -1154,9 +1155,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 424,
-                "y": 498
+                "map": "kronos_hq",
+                "x": 1972,
+                "y": 2488
               }
             ]
           },
@@ -1174,9 +1175,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 368,
-                "y": 590
+                "map": "kronos_hq",
+                "x": 1705,
+                "y": 2920
               }
             ]
           },
@@ -1194,9 +1195,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 485,
-                "y": 508
+                "map": "kronos_hq",
+                "x": 2265,
+                "y": 2527
               }
             ]
           },
@@ -1214,9 +1215,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 320,
-                "y": 545
+                "map": "kronos_hq",
+                "x": 1480,
+                "y": 2725
               }
             ]
           },
@@ -1234,9 +1235,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 533,
-                "y": 432
+                "map": "kronos_hq",
+                "x": 2500,
+                "y": 2180
               }
             ]
           },
@@ -1254,9 +1255,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 460,
-                "y": 410
+                "map": "kronos_hq",
+                "x": 2150,
+                "y": 2100
               }
             ]
           },
@@ -1274,9 +1275,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 385,
-                "y": 465
+                "map": "kronos_hq",
+                "x": 1770,
+                "y": 2340
               }
             ]
           },
@@ -1294,9 +1295,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 287,
-                "y": 560
+                "map": "kronos_hq",
+                "x": 1315,
+                "y": 2800
               }
             ]
           },
@@ -1314,9 +1315,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 384,
-                "y": 366
+                "map": "kronos_hq",
+                "x": 1773,
+                "y": 1881
               }
             ]
           },
@@ -1334,9 +1335,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 365,
-                "y": 402
+                "map": "kronos_hq",
+                "x": 1690,
+                "y": 2057
               }
             ]
           },
@@ -1354,9 +1355,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 320,
-                "y": 465
+                "map": "kronos_hq",
+                "x": 1510,
+                "y": 2353
               }
             ]
           },
@@ -1374,9 +1375,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 245,
-                "y": 525
+                "map": "kronos_hq",
+                "x": 1120,
+                "y": 2610
               }
             ]
           },
@@ -1394,9 +1395,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 264,
-                "y": 397
+                "map": "kronos_hq",
+                "x": 1205,
+                "y": 2005
               }
             ]
           },
@@ -1414,9 +1415,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 240,
-                "y": 485
+                "map": "kronos_hq",
+                "x": 1080,
+                "y": 2430
               }
             ]
           },
@@ -1434,9 +1435,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 168,
-                "y": 478
+                "map": "kronos_hq",
+                "x": 760,
+                "y": 2400
               }
             ]
           },
@@ -1454,9 +1455,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 255,
-                "y": 355
+                "map": "kronos_hq",
+                "x": 1172,
+                "y": 1792
               }
             ]
           },
@@ -1474,9 +1475,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 170,
-                "y": 425
+                "map": "kronos_hq",
+                "x": 750,
+                "y": 2130
               }
             ]
           },
@@ -1494,9 +1495,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 80,
-                "y": 420
+                "map": "kronos_hq",
+                "x": 362,
+                "y": 2115
               }
             ]
           },
@@ -1514,9 +1515,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 58,
-                "y": 494
+                "map": "kronos_hq",
+                "x": 247,
+                "y": 2487
               }
             ]
           }
@@ -1549,9 +1550,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 573,
-                "y": 415
+                "map": "kronos_hq",
+                "x": 2675,
+                "y": 2107
               }
             ]
           },
@@ -1569,9 +1570,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 248,
-                "y": 417
+                "map": "kronos_hq",
+                "x": 1145,
+                "y": 2115
               }
             ]
           },
@@ -1589,9 +1590,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 273,
-                "y": 353
+                "map": "kronos_hq",
+                "x": 1257,
+                "y": 1806
               }
             ]
           },
@@ -1609,9 +1610,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 314,
-                "y": 497
+                "map": "kronos_hq",
+                "x": 1450,
+                "y": 2490
               }
             ]
           },
@@ -1629,9 +1630,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 343,
-                "y": 495
+                "map": "kronos_hq",
+                "x": 1590,
+                "y": 2480
               }
             ]
           },
@@ -1660,9 +1661,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 467,
-                "y": 640
+                "map": "kronos_hq",
+                "x": 2175,
+                "y": 3170
               }
             ]
           },
@@ -1691,9 +1692,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 428,
-                "y": 420
+                "map": "kronos_hq",
+                "x": 1985,
+                "y": 2107
               }
             ]
           },
@@ -1711,9 +1712,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 155,
-                "y": 410
+                "map": "kronos_hq",
+                "x": 685,
+                "y": 2080
               }
             ]
           },
@@ -1731,9 +1732,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 415,
-                "y": 473
+                "map": "kronos_hq",
+                "x": 1940,
+                "y": 2390
               }
             ]
           },
@@ -1751,9 +1752,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 775,
-                "y": 725
+                "map": "kronos_hq",
+                "x": 3635,
+                "y": 3580
               }
             ]
           },
@@ -1771,9 +1772,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 610,
-                "y": 715
+                "map": "kronos_hq",
+                "x": 2833,
+                "y": 3533
               }
             ]
           }
@@ -1809,9 +1810,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 129,
-                "y": 405
+                "map": "kronos_hq",
+                "x": 573,
+                "y": 2055
               }
             ]
           },
@@ -1829,9 +1830,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 427,
-                "y": 555
+                "map": "kronos_hq",
+                "x": 1995,
+                "y": 2760
               }
             ]
           },
@@ -1849,9 +1850,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 357,
-                "y": 390
+                "map": "kronos_hq",
+                "x": 1656,
+                "y": 1985
               }
             ]
           },
@@ -1869,9 +1870,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 202,
-                "y": 448
+                "map": "kronos_hq",
+                "x": 913,
+                "y": 2260
               }
             ]
           },
@@ -1889,9 +1890,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 303,
-                "y": 546
+                "map": "kronos_hq",
+                "x": 1400,
+                "y": 2730
               }
             ]
           },
@@ -1909,9 +1910,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 218,
-                "y": 576
+                "map": "kronos_hq",
+                "x": 990,
+                "y": 2870
               }
             ]
           },
@@ -1929,9 +1930,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 199,
-                "y": 363
+                "map": "kronos_hq",
+                "x": 905,
+                "y": 1860
               }
             ]
           },
@@ -1949,9 +1950,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 48,
-                "y": 483
+                "map": "kronos_hq",
+                "x": 185,
+                "y": 2430
               }
             ]
           },
@@ -1969,9 +1970,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 489,
-                "y": 450
+                "map": "kronos_hq",
+                "x": 2280,
+                "y": 2270
               }
             ]
           },
@@ -1989,9 +1990,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 546,
-                "y": 718
+                "map": "kronos_hq",
+                "x": 2555,
+                "y": 3543
               }
             ]
           },
@@ -2009,9 +2010,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 350,
-                "y": 515
+                "map": "kronos_hq",
+                "x": 1610,
+                "y": 2590
               }
             ]
           },
@@ -2029,9 +2030,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 672,
-                "y": 740
+                "map": "kronos_hq",
+                "x": 3150,
+                "y": 3650
               }
             ]
           },
@@ -2049,9 +2050,9 @@
             ],
             "map_locations": [
               {
-                "map": "kronos",
-                "x": 374,
-                "y": 448
+                "map": "kronos_hq",
+                "x": 1730,
+                "y": 2260
               }
             ]
           }
@@ -2089,8 +2090,7 @@
               {
                 "map": "kronos",
                 "x": 837,
-                "y": 645,
-                "shape": "diamond"
+                "y": 645
               }
             ]
           },
@@ -2110,8 +2110,7 @@
               {
                 "map": "kronos",
                 "x": 837,
-                "y": 630,
-                "shape": "diamond"
+                "y": 630
               }
             ]
           },
@@ -2131,8 +2130,7 @@
               {
                 "map": "kronos",
                 "x": 790,
-                "y": 673,
-                "shape": "diamond"
+                "y": 673
               }
             ]
           },
@@ -2152,8 +2150,7 @@
               {
                 "map": "kronos",
                 "x": 787,
-                "y": 690,
-                "shape": "diamond"
+                "y": 690
               }
             ]
           },
@@ -2173,8 +2170,7 @@
               {
                 "map": "kronos",
                 "x": 700,
-                "y": 785,
-                "shape": "diamond"
+                "y": 785
               }
             ]
           },
@@ -2194,8 +2190,7 @@
               {
                 "map": "kronos",
                 "x": 735,
-                "y": 765,
-                "shape": "diamond"
+                "y": 765
               }
             ]
           },
@@ -2215,8 +2210,7 @@
               {
                 "map": "kronos",
                 "x": 630,
-                "y": 712,
-                "shape": "diamond"
+                "y": 712
               }
             ]
           },
@@ -2236,8 +2230,7 @@
               {
                 "map": "kronos",
                 "x": 380,
-                "y": 525,
-                "shape": "diamond"
+                "y": 525
               }
             ]
           },
@@ -2257,8 +2250,7 @@
               {
                 "map": "kronos",
                 "x": 494,
-                "y": 435,
-                "shape": "diamond"
+                "y": 435
               }
             ]
           },
@@ -2278,8 +2270,7 @@
               {
                 "map": "kronos",
                 "x": 375,
-                "y": 386,
-                "shape": "diamond"
+                "y": 386
               }
             ]
           },
@@ -2299,8 +2290,7 @@
               {
                 "map": "kronos",
                 "x": 164,
-                "y": 408,
-                "shape": "diamond"
+                "y": 408
               }
             ]
           },
@@ -2320,8 +2310,7 @@
               {
                 "map": "kronos",
                 "x": 481,
-                "y": 481,
-                "shape": "diamond"
+                "y": 481
               }
             ]
           },
@@ -2341,8 +2330,7 @@
               {
                 "map": "kronos",
                 "x": 462,
-                "y": 420,
-                "shape": "diamond"
+                "y": 420
               }
             ]
           },
@@ -2362,8 +2350,7 @@
               {
                 "map": "kronos",
                 "x": 337,
-                "y": 463,
-                "shape": "diamond"
+                "y": 463
               }
             ]
           },
@@ -2383,8 +2370,7 @@
               {
                 "map": "kronos",
                 "x": 380,
-                "y": 452,
-                "shape": "diamond"
+                "y": 452
               }
             ]
           },
@@ -2404,8 +2390,7 @@
               {
                 "map": "kronos",
                 "x": 200,
-                "y": 462,
-                "shape": "diamond"
+                "y": 462
               }
             ]
           },
@@ -2425,8 +2410,7 @@
               {
                 "map": "kronos",
                 "x": 55,
-                "y": 460,
-                "shape": "diamond"
+                "y": 460
               }
             ]
           },
@@ -2446,8 +2430,7 @@
               {
                 "map": "kronos",
                 "x": 133,
-                "y": 434,
-                "shape": "diamond"
+                "y": 434
               }
             ]
           },
@@ -2467,8 +2450,7 @@
               {
                 "map": "kronos",
                 "x": 164,
-                "y": 394,
-                "shape": "diamond"
+                "y": 394
               }
             ]
           },
@@ -2488,8 +2470,7 @@
               {
                 "map": "kronos",
                 "x": 121,
-                "y": 457,
-                "shape": "diamond"
+                "y": 457
               }
             ]
           },
@@ -2509,8 +2490,7 @@
               {
                 "map": "kronos",
                 "x": 118,
-                "y": 396,
-                "shape": "diamond"
+                "y": 396
               }
             ]
           },
@@ -2530,8 +2510,7 @@
               {
                 "map": "kronos",
                 "x": 87,
-                "y": 413,
-                "shape": "diamond"
+                "y": 413
               }
             ]
           },
@@ -2551,8 +2530,7 @@
               {
                 "map": "kronos",
                 "x": 69,
-                "y": 465,
-                "shape": "diamond"
+                "y": 465
               }
             ]
           },
@@ -2572,8 +2550,7 @@
               {
                 "map": "kronos",
                 "x": 85,
-                "y": 518,
-                "shape": "diamond"
+                "y": 518
               }
             ]
           },
@@ -2593,8 +2570,7 @@
               {
                 "map": "kronos",
                 "x": 92,
-                "y": 467,
-                "shape": "diamond"
+                "y": 467
               }
             ]
           },
@@ -2614,8 +2590,7 @@
               {
                 "map": "kronos",
                 "x": 97,
-                "y": 532,
-                "shape": "diamond"
+                "y": 532
               }
             ]
           },
@@ -2635,8 +2610,7 @@
               {
                 "map": "kronos",
                 "x": 790,
-                "y": 668,
-                "shape": "diamond"
+                "y": 668
               }
             ]
           },
@@ -2656,8 +2630,7 @@
               {
                 "map": "kronos",
                 "x": 745,
-                "y": 697,
-                "shape": "diamond"
+                "y": 697
               }
             ]
           },
@@ -2677,8 +2650,7 @@
               {
                 "map": "kronos",
                 "x": 760,
-                "y": 697,
-                "shape": "diamond"
+                "y": 697
               }
             ]
           },
@@ -2698,8 +2670,7 @@
               {
                 "map": "kronos",
                 "x": 750,
-                "y": 710,
-                "shape": "diamond"
+                "y": 710
               }
             ]
           },
@@ -2719,8 +2690,7 @@
               {
                 "map": "kronos",
                 "x": 718,
-                "y": 753,
-                "shape": "diamond"
+                "y": 753
               }
             ]
           },
@@ -2740,8 +2710,7 @@
               {
                 "map": "kronos",
                 "x": 657,
-                "y": 800,
-                "shape": "diamond"
+                "y": 800
               }
             ]
           },
@@ -2761,8 +2730,7 @@
               {
                 "map": "kronos",
                 "x": 670,
-                "y": 730,
-                "shape": "diamond"
+                "y": 730
               }
             ]
           },
@@ -2782,8 +2750,7 @@
               {
                 "map": "kronos",
                 "x": 650,
-                "y": 743,
-                "shape": "diamond"
+                "y": 743
               }
             ]
           },
@@ -2803,8 +2770,7 @@
               {
                 "map": "kronos",
                 "x": 585,
-                "y": 705,
-                "shape": "diamond"
+                "y": 705
               }
             ]
           },
@@ -2824,8 +2790,7 @@
               {
                 "map": "kronos",
                 "x": 530,
-                "y": 715,
-                "shape": "diamond"
+                "y": 715
               }
             ]
           },
@@ -2845,8 +2810,7 @@
               {
                 "map": "kronos",
                 "x": 517,
-                "y": 713,
-                "shape": "diamond"
+                "y": 713
               }
             ]
           },
@@ -2866,8 +2830,7 @@
               {
                 "map": "kronos",
                 "x": 478,
-                "y": 684,
-                "shape": "diamond"
+                "y": 684
               }
             ]
           },
@@ -2887,8 +2850,7 @@
               {
                 "map": "kronos",
                 "x": 480,
-                "y": 525,
-                "shape": "diamond"
+                "y": 525
               }
             ]
           },
@@ -2908,8 +2870,7 @@
               {
                 "map": "kronos",
                 "x": 392,
-                "y": 592,
-                "shape": "diamond"
+                "y": 592
               }
             ]
           },
@@ -2929,8 +2890,7 @@
               {
                 "map": "kronos",
                 "x": 433,
-                "y": 585,
-                "shape": "diamond"
+                "y": 585
               }
             ]
           },
@@ -2950,8 +2910,7 @@
               {
                 "map": "kronos",
                 "x": 417,
-                "y": 565,
-                "shape": "diamond"
+                "y": 565
               }
             ]
           },
@@ -2971,8 +2930,7 @@
               {
                 "map": "kronos",
                 "x": 409,
-                "y": 536,
-                "shape": "diamond"
+                "y": 536
               }
             ]
           },
@@ -2992,8 +2950,7 @@
               {
                 "map": "kronos",
                 "x": 425,
-                "y": 492,
-                "shape": "diamond"
+                "y": 492
               }
             ]
           },
@@ -3013,8 +2970,7 @@
               {
                 "map": "kronos",
                 "x": 411,
-                "y": 508,
-                "shape": "diamond"
+                "y": 508
               }
             ]
           },
@@ -3034,8 +2990,7 @@
               {
                 "map": "kronos",
                 "x": 507,
-                "y": 475,
-                "shape": "diamond"
+                "y": 475
               }
             ]
           },
@@ -3055,8 +3010,7 @@
               {
                 "map": "kronos",
                 "x": 438,
-                "y": 385,
-                "shape": "diamond"
+                "y": 385
               }
             ]
           },
@@ -3076,8 +3030,7 @@
               {
                 "map": "kronos",
                 "x": 393,
-                "y": 375,
-                "shape": "diamond"
+                "y": 375
               }
             ]
           },
@@ -3097,8 +3050,7 @@
               {
                 "map": "kronos",
                 "x": 371,
-                "y": 405,
-                "shape": "diamond"
+                "y": 405
               }
             ]
           },
@@ -3118,8 +3070,7 @@
               {
                 "map": "kronos",
                 "x": 282,
-                "y": 363,
-                "shape": "diamond"
+                "y": 363
               }
             ]
           },
@@ -3139,8 +3090,7 @@
               {
                 "map": "kronos",
                 "x": 315,
-                "y": 450,
-                "shape": "diamond"
+                "y": 450
               }
             ]
           },
@@ -3160,8 +3110,7 @@
               {
                 "map": "kronos",
                 "x": 205,
-                "y": 370,
-                "shape": "diamond"
+                "y": 370
               }
             ]
           },
@@ -3181,8 +3130,7 @@
               {
                 "map": "kronos",
                 "x": 380,
-                "y": 471,
-                "shape": "diamond"
+                "y": 471
               }
             ]
           },
@@ -3202,8 +3150,7 @@
               {
                 "map": "kronos",
                 "x": 266,
-                "y": 427,
-                "shape": "diamond"
+                "y": 427
               }
             ]
           },
@@ -3223,8 +3170,7 @@
               {
                 "map": "kronos",
                 "x": 320,
-                "y": 590,
-                "shape": "diamond"
+                "y": 590
               }
             ]
           },
@@ -3244,8 +3190,7 @@
               {
                 "map": "kronos",
                 "x": 283,
-                "y": 555,
-                "shape": "diamond"
+                "y": 555
               }
             ]
           },
@@ -3265,8 +3210,7 @@
               {
                 "map": "kronos",
                 "x": 250,
-                "y": 485,
-                "shape": "diamond"
+                "y": 485
               }
             ]
           },
@@ -3286,8 +3230,7 @@
               {
                 "map": "kronos",
                 "x": 242,
-                "y": 472,
-                "shape": "diamond"
+                "y": 472
               }
             ]
           },
@@ -3307,8 +3250,7 @@
               {
                 "map": "kronos",
                 "x": 249,
-                "y": 514,
-                "shape": "diamond"
+                "y": 514
               }
             ]
           },
@@ -3334,8 +3276,7 @@
               {
                 "map": "kronos",
                 "x": 289,
-                "y": 513,
-                "shape": "diamond"
+                "y": 513
               }
             ]
           },
@@ -3355,8 +3296,7 @@
               {
                 "map": "kronos",
                 "x": 315,
-                "y": 445,
-                "shape": "diamond"
+                "y": 445
               }
             ]
           },
@@ -3376,8 +3316,7 @@
               {
                 "map": "kronos",
                 "x": 703,
-                "y": 777,
-                "shape": "diamond"
+                "y": 777
               }
             ]
           },
@@ -3397,8 +3336,7 @@
               {
                 "map": "kronos",
                 "x": 745,
-                "y": 765,
-                "shape": "diamond"
+                "y": 765
               }
             ]
           },
@@ -3418,8 +3356,7 @@
               {
                 "map": "kronos",
                 "x": 400,
-                "y": 383,
-                "shape": "diamond"
+                "y": 383
               }
             ]
           },
@@ -3439,8 +3376,7 @@
               {
                 "map": "kronos",
                 "x": 215,
-                "y": 378,
-                "shape": "diamond"
+                "y": 378
               }
             ]
           },
@@ -3460,8 +3396,7 @@
               {
                 "map": "kronos",
                 "x": 555,
-                "y": 427,
-                "shape": "diamond"
+                "y": 427
               }
             ]
           },
@@ -3481,8 +3416,7 @@
               {
                 "map": "kronos",
                 "x": 497,
-                "y": 525,
-                "shape": "diamond"
+                "y": 525
               }
             ]
           },
@@ -3502,8 +3436,7 @@
               {
                 "map": "kronos",
                 "x": 377,
-                "y": 587,
-                "shape": "diamond"
+                "y": 587
               }
             ]
           },
@@ -3523,8 +3456,7 @@
               {
                 "map": "kronos",
                 "x": 525,
-                "y": 623,
-                "shape": "diamond"
+                "y": 623
               }
             ]
           },
@@ -3544,8 +3476,7 @@
               {
                 "map": "kronos",
                 "x": 500,
-                "y": 570,
-                "shape": "diamond"
+                "y": 570
               }
             ]
           },
@@ -3565,8 +3496,7 @@
               {
                 "map": "kronos",
                 "x": 330,
-                "y": 517,
-                "shape": "diamond"
+                "y": 517
               }
             ]
           },
@@ -3586,8 +3516,7 @@
               {
                 "map": "kronos",
                 "x": 390,
-                "y": 510,
-                "shape": "diamond"
+                "y": 510
               }
             ]
           },
@@ -3607,8 +3536,7 @@
               {
                 "map": "kronos",
                 "x": 283,
-                "y": 413,
-                "shape": "diamond"
+                "y": 413
               }
             ]
           },
@@ -3628,8 +3556,7 @@
               {
                 "map": "kronos",
                 "x": 335,
-                "y": 555,
-                "shape": "diamond"
+                "y": 555
               }
             ]
           },
@@ -3649,8 +3576,7 @@
               {
                 "map": "kronos",
                 "x": 497,
-                "y": 615,
-                "shape": "diamond"
+                "y": 615
               }
             ]
           },
@@ -3670,8 +3596,7 @@
               {
                 "map": "kronos",
                 "x": 323,
-                "y": 398,
-                "shape": "diamond"
+                "y": 398
               }
             ]
           },
@@ -3691,8 +3616,7 @@
               {
                 "map": "kronos",
                 "x": 537,
-                "y": 655,
-                "shape": "diamond"
+                "y": 655
               }
             ]
           },
@@ -3712,8 +3636,7 @@
               {
                 "map": "kronos",
                 "x": 460,
-                "y": 590,
-                "shape": "diamond"
+                "y": 590
               }
             ]
           },
@@ -3733,8 +3656,7 @@
               {
                 "map": "kronos",
                 "x": 494,
-                "y": 455,
-                "shape": "diamond"
+                "y": 455
               }
             ]
           },
@@ -3754,8 +3676,7 @@
               {
                 "map": "kronos",
                 "x": 411,
-                "y": 450,
-                "shape": "diamond"
+                "y": 450
               }
             ]
           },
@@ -3775,8 +3696,7 @@
               {
                 "map": "kronos",
                 "x": 84,
-                "y": 480,
-                "shape": "diamond"
+                "y": 480
               }
             ]
           },
@@ -3796,8 +3716,7 @@
               {
                 "map": "kronos",
                 "x": 63,
-                "y": 512,
-                "shape": "diamond"
+                "y": 512
               }
             ]
           },
@@ -3817,8 +3736,7 @@
               {
                 "map": "kronos",
                 "x": 166,
-                "y": 483,
-                "shape": "diamond"
+                "y": 483
               }
             ]
           },
@@ -3838,8 +3756,7 @@
               {
                 "map": "kronos",
                 "x": 495,
-                "y": 631,
-                "shape": "diamond"
+                "y": 631
               }
             ]
           },
@@ -3859,8 +3776,7 @@
               {
                 "map": "kronos",
                 "x": 658,
-                "y": 740,
-                "shape": "diamond"
+                "y": 740
               }
             ]
           },
@@ -3880,8 +3796,7 @@
               {
                 "map": "kronos",
                 "x": 488,
-                "y": 555,
-                "shape": "diamond"
+                "y": 555
               }
             ]
           },
@@ -3901,8 +3816,7 @@
               {
                 "map": "kronos",
                 "x": 500,
-                "y": 450,
-                "shape": "diamond"
+                "y": 450
               }
             ]
           },
@@ -3922,8 +3836,7 @@
               {
                 "map": "kronos",
                 "x": 335,
-                "y": 417,
-                "shape": "diamond"
+                "y": 417
               }
             ]
           },
@@ -3943,8 +3856,7 @@
               {
                 "map": "kronos",
                 "x": 213,
-                "y": 535,
-                "shape": "diamond"
+                "y": 535
               }
             ]
           },
@@ -3964,8 +3876,613 @@
               {
                 "map": "kronos",
                 "x": 381,
-                "y": 417,
-                "shape": "diamond"
+                "y": 417
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Purple Coins",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [
+          "purple_coin_sanity"
+        ],
+        "children": [
+          {
+            "name": "Ruined archway",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 1",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 2",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 3",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 4",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 5",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 490,
+                "y": 2762
+              }
+            ]
+          },
+          {
+            "name": "On top of rock",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 6",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 7",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 8",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 2050,
+                "y": 1980
+              }
+            ]
+          },
+          {
+            "name": "Ruined building near tower",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 9",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 10",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 2245,
+                "y": 2425
+              }
+            ]
+          },
+          {
+            "name": "Ruined hut near waterfall",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 11",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 12",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 13",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 1145,
+                "y": 1950
+              }
+            ]
+          },
+          {
+            "name": "Outer ring by floating structure",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 14",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 15",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 16",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 17",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 395,
+                "y": 2350
+              }
+            ]
+          },
+          {
+            "name": "Coins on pillar",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 18",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 19",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 20",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 21",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 22",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 418,
+                "y": 2660
+              }
+            ]
+          },
+          {
+            "name": "Coin 23",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 443,
+                "y": 2730
+              }
+            ]
+          },
+          {
+            "name": "Coin 24",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 510,
+                "y": 2730
+              }
+            ]
+          },
+          {
+            "name": "Tower",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "North ring 2 (Coin 25)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "North ring 2 (Coin 26)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "North ring 2 (Coin 27)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "West past ring 2 (Coin 28)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southeast past ring 1 (Coin 29)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southeast past ring 1 (Coin 30)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southeast past ring 1 (Coin 31)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southwest Ring 1 (Coin 49)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southwest Ring 1 (Coin 50)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southwest Ring 1 (Coin 51)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Southwest Ring 1 (Coin 52)",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 2290,
+                "y": 2270
+              }
+            ]
+          },
+          {
+            "name": "Small platform by mountain",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 32",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 33",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 34",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 35",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 570,
+                "y": 2050
+              }
+            ]
+          },
+          {
+            "name": "Island 1",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 36",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 37",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 38",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 983,
+                "y": 2860
+              }
+            ]
+          },
+          {
+            "name": "Top of floating structure",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 39",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 40",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 41",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 42",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 545,
+                "y": 2460
+              }
+            ]
+          },
+          {
+            "name": "Small Mountain",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 43",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 44",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 45",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 2315,
+                "y": 3053
+              }
+            ]
+          },
+          {
+            "name": "Behind Mission 1-4",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 46",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 47",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 48",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 2230,
+                "y": 2625
+              }
+            ]
+          },
+          {
+            "name": "Platform below Tower guardian",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 53",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 54",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 55",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 56",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 57",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 58",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 545,
+                "y": 2510
+              }
+            ]
+          },
+          {
+            "name": "On 1-7 mission platform",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 59",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 60",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 61",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 62",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 930,
+                "y": 2755
+              }
+            ]
+          },
+          {
+            "name": "End of M-018",
+            "access_rules": "",
+            "visibility_rules": [
+              ""
+            ],
+            "sections": [
+              {
+                "name": "Coin 63",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 64",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              },
+              {
+                "name": "Coin 65",
+                "chest_unopened_img": "images/items/purple_coin.png",
+                "chest_opened_img": "images/items/purple_coin_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "kronos_coins",
+                "x": 750,
+                "y": 2317
               }
             ]
           }

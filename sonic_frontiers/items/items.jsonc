@@ -147,6 +147,9 @@
     "overlay_align": "right",
     "img": "images/items/chaos_emerald_purple.png"
   },
+
+  // KRONOS //
+
   {
     "name": "Kronos Gears",
     "type": "consumable",
@@ -159,18 +162,6 @@
     "overlay_align": "right",
     "img": "images/items/kronos_gear.png"
   },
-  /*{
-    "name": "Kronos Memory Tokens",
-    "type": "consumable",
-    "codes": "kronos memory token",
-    "max_quantity": "999",
-    "initial_quantity": "0",
-    "overlay_background": "808080",
-    "allow_disabled": true,
-    "overlay_font_size": 12,
-    "overlay_align": "right",
-    "img": "images/items/kronos_memory_token.png"
-  },*/
   {
     "name": "Kronos Vault Keys",
     "type": "consumable",
@@ -181,7 +172,7 @@
     "allow_disabled": false,
     "overlay_font_size": 16,
     "overlay_align": "right",
-    "img": "images/items/key.png"
+    "img": "images/items/kronos_key.png"
   },
   {
     "name": "Kronos Memory Tokens",
@@ -232,6 +223,89 @@
     "codes": "1-7 unlock",
     "img": "images/items/mission.png"
   },
+
+  // ARES //
+
+  {
+    "name": "Ares Gears",
+    "type": "consumable",
+    "codes": "ares portal gear",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/ares_gear.png"
+  },
+  {
+    "name": "Ares Vault Keys",
+    "type": "consumable",
+    "codes": "ares vault key",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/ares_key.png"
+  },
+  {
+    "name": "Ares Memory Tokens",
+    "type": "consumable",
+    "codes": "ares memory treasure",
+    "max_quantity": "999",
+    "initial_quantity": "0",
+    "increment": 8,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 16,
+    "overlay_align": "right",
+    "img": "images/items/ares_memory_token.png"
+  },
+  {
+    "name": "Mission 2-1",
+    "type": "toggle",
+    "codes": "2-1 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-2",
+    "type": "toggle",
+    "codes": "2-2 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-3",
+    "type": "toggle",
+    "codes": "2-3 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-4",
+    "type": "toggle",
+    "codes": "2-4 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-5",
+    "type": "toggle",
+    "codes": "2-5 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-6",
+    "type": "toggle",
+    "codes": "2-6 unlock",
+    "img": "images/items/mission.png"
+  },
+  {
+    "name": "Mission 2-7",
+    "type": "toggle",
+    "codes": "2-7 unlock",
+    "img": "images/items/mission.png"
+  },
+
   {
     "name": "Tab Switcher",
     "type": "progressive",
