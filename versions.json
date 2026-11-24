@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.2.0",
+      "download_url": "https://github.com/BlameMateo/Sonic-Frontiers-Poptracker/releases/download/v0.2.0/sonic_frontiers.zip",
+      "sha256": "da9add4025d701a431e1deef4e088427f77f84c80bbd52f243e42a6e177fffe4",
+      "changelog": [
+        "V0.2.0 See Github for release notes."
+      ]
+    },
+    {
       "package_version": "0.1.0",
       "download_url": "https://github.com/BlameMateo/Sonic-Frontiers-Poptracker/releases/download/v0.1.0/sonic_frontiers.zip",
       "sha256": "05e16f6a483f7705bbe9b41cd5de75d4a02ec81c5dd7d3af7b9e6de356da3b8a",
